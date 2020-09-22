@@ -1,4 +1,4 @@
-# yummyYummy
+# Yummy Yummy
 Yelp SPA using React with CSS styling. 
 
 
